@@ -23,14 +23,14 @@
 - **比赛名称**：Bag of Words Meets Bags of Popcorn
 - **比赛链接**：https://www.kaggle.com/competitions/word2vec-nlp-tutorial/data
 - **提交日期**：2026-04-15
-- **GitHub 仓库地址**：https://github.com/wz620/112304260146-Word2Vec-Experiment
+- **GitHub 仓库地址**：https://github.com/wz620/112304260146-wangzhe
 
 > 注意：GitHub 仓库首页或 README 页面中，必须能看到"姓名 + 学号"，否则无效。
 
 ---
 
 ## 4. Kaggle 成绩
-- **Public Score**：
+- **Public Score**：0.96753
 - **Private Score**（如有）：
 - **排名**（如能看到可填写）：
 
