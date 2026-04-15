@@ -243,9 +243,8 @@ baomihua/
 │  └─ attempt_log.csv              # 实验日志（所有运行记录）
 ├─ report/
 │  └─ experiment_report.md         # 本报告
-├─ results/
-│  └─ submission/                  # 提交文件
-│     └─ submission_*.csv
+├─ submission/
+│  └─ submission_*.csv
 ├─ .gitignore                      # Git 忽略配置
 └─ README.md                       # 仓库说明
 ```
