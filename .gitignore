@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.zip
+*.model
+*.npy
+*.npz
+*.log
+.DS_Store
+.vscode/
+.idea/
+
+# Data files - do not upload to GitHub
+# Uncomment the following if data is stored elsewhere
+# data/
