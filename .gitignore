@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# PyTorch / YOLO
+*.pt
+runs/
+yolov8*.pt
+
+# Data (exclude submission.csv)
+第4次实验数据及提交格式/
+*.csv
+!submission.csv
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
